@@ -1,0 +1,18 @@
+{
+weblet : {
+	name: "WebContentDisplay",
+	display-name: "Web Content Display",
+	weblet-class: "com.opensajux.weblet.webcontent.WebContentDisplay",
+	init-param: {
+		view: "/META-INF/resources/view.xhtml"
+	}
+},
+weblet : {
+	name: "WedddbContentDisplay",
+	display-name: "Web Content Display",
+	weblet-class: "com.opensajux.weblet.webcontent.WebContentDisplay",
+	init-param: {
+		view: "/META-INF/resources/view.xhtml"
+	}
+}
+}
